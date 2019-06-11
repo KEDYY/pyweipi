@@ -5,7 +5,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='pyweipi',
-    version='1.0.6',
+    version='1.0.7',
     keywords=('weixin', 'weibo', 'api'),
     description='Python 2.x 3.x api for Weixin or Weibo platform',
     long_description='weixin or weibo platform python api for used',
@@ -24,8 +24,7 @@ setup(
 
         # Indicate who your project is intended for
         'Intended Audience :: Developers',
-        'TOPIC :: SOFTWARE DEVELOPMENT :: LIBRARIES',
-        'TOPIC :: SOFTWARE DEVELOPMENT :: LIBRARIES :: PYTHON MODULES',
+        'Topic :: Software Development :: Libraries :: Python Modules',
 
         # Pick your license as you wish (should match "license" above)
         'License :: OSI Approved :: MIT License',
